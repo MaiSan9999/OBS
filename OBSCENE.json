@@ -1,7 +1,7 @@
 {
     "name": "OBSCENE",
     "DesktopAudioDevice1": {
-        "prev_ver": 536936449,
+        "prev_ver": 537001985,
         "name": "Desktop Audio",
         "uuid": "080832ee-d2e9-4d2a-a9c6-a2e900588e45",
         "id": "wasapi_output_capture",
@@ -33,7 +33,7 @@
     },
     "sources": [
         {
-            "prev_ver": 536936449,
+            "prev_ver": 537001985,
             "name": "Video Capture Device",
             "uuid": "33a87a24-937d-4ab8-9a56-628d20e1cc10",
             "id": "dshow_input",
@@ -65,7 +65,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 536936449,
+            "prev_ver": 537001985,
             "name": "Scene",
             "uuid": "e7e33cfb-9c93-451a-8a59-13e6183084b5",
             "id": "scene",
